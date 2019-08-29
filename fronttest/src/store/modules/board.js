@@ -3,7 +3,7 @@ import { pender } from 'redux-pender'
 import { Map } from 'immutable'
 import * as api from '../lib/api'
 
-
+//호호로로로롤ㄹ.
 //action types
 const INITIALIZE = 'board/INITIALIZE'
 const CHANGEINPUT = 'board/CHANGEINPUT'
