@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 class Comment extends Component {
-
+    //오타 수정했음...
     handleChange = (e)=>{
         
         const { onChangeInput } = this.props
